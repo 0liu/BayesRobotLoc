@@ -3,8 +3,7 @@
 This is a C++11 simulation of Bayes filters for robot localization described in the book [Probabilistic Robotics](http://www.probabilistic-robotics.org/).
 
 Position tracking with the extended Kalman filter:
-
-<img src="./demo.gif" width=800 alt="Extended Kalman Filter Demo">Extended Kalman Filter Demo</img>
+<img src="./demo.gif" width=800 alt="Extended Kalman Filter Demo"></img>
 
 
 Requirements
